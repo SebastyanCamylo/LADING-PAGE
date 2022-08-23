@@ -1,0 +1,56 @@
+*{
+    margin: 5px;
+    padding: 0px;
+    font-family: sans-serif;   
+}
+
+header{
+background-image: url(../img/rama\ 2.jpg) ;
+background-size: cover;
+height: 150px;
+background-position: center;
+
+
+}
+
+.text-light{
+    color: rgb(24, 18, 4);
+}
+
+.text-center{
+text-align:center
+}
+
+.pat{
+    padding-top: 30px;
+}
+
+footer{
+    background-color: rgb(208, 211, 201);
+}
+
+.text-footer{
+    padding: 40px;
+    text-align: center;
+    font-size: 22px;
+}
+
+table{
+    margin: auto;
+}
+
+.img-plantas{
+    width: 400px;
+    height: 250px;
+}
+
+.img-plantas img{
+    width: 100%;
+    height: 100%;
+}
+
+td p{
+    font-weight: 800;
+    font-size: 15px;
+    
+}
